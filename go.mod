@@ -2,6 +2,8 @@ module github.com/ety001/lzc-mock-oidc
 
 go 1.25.5
 
+toolchain go1.27.3
+
 require (
 	github.com/gin-gonic/gin v1.11.0
 	github.com/go-jose/go-jose/v4 v4.1.4
